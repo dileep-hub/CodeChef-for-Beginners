@@ -3,5 +3,6 @@ ALL the codechef practice beginners problem's solution will be there in this rep
 
 # Day - 1 
         --> Taking imput like n, m
-        --> integers cannot be iterable but we can in 1 condition
-        -->pos of z=0  --> position of print is very important
+  ***   --> How to convert a integer into string to iterate it
+        --> pos of z=0  --> position of print is very important
+        
