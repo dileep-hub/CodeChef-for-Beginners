@@ -14,4 +14,4 @@ ALL the codechef practice beginners problem's solution will be there in this rep
         --> Importance of list   use of if len(y) = x  5 = 1 2 3 4 5  TAKING HORIZONTAL INPUT    ***
         --> Use of BREAK --> here if the num is div by any num then it go out of the loop
         --> USE y == "c" or y == "C"  Not y = "c" or"C"
-        --> Use of Lapindromes (gaga) rotor if sorted(y[0:len(y)//2])
+        --> Use of Lapindromes (gaga) rotor if sorted(y[0:len(y)//2]).
